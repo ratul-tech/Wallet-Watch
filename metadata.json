@@ -1,5 +1,5 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Wallet Watch",
+  "description": "A high-fidelity personal finance tracker with real-time Firebase integration and AI-powered security monitoring.",
   "requestFramePermissions": []
 }
